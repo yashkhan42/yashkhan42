@@ -7,10 +7,10 @@
 ---
 ## 🧑‍💻 About Me
 
-- AI/ML & Privacy Research Assistant at Texas Tech University  
-  • Differentially private fingerprinting scheme (DPFP) in Python for Adult UCI dataset (32k+ records, ε=1 privacy budget) with Flask backend and 100% attribution under 80% tampering  
-  • Human–AI Teaming experiments with U.S. Air Force Research Laboratory using Pandemic game (MATLAB AI agents, 1,000+ trials)  
-  • LLMs (RAG, Vector DBs, Zero-Shot Learning), Reinforcement Learning (DQN), Differential Privacy, Human-AI systems
+- AI/ML & Privacy Research Assistant at Texas Tech University
+  - Differentially private fingerprinting scheme (DPFP) in Python for Adult UCI dataset (32k+ records, ε=1 privacy budget) with Flask backend and 100% attribution under 80% tampering
+  - Human–AI Teaming experiments with U.S. Air Force Research Laboratory using Pandemic game (MATLAB AI agents, 1,000+ trials)
+  - LLMs (RAG, Vector DBs, Zero-Shot Learning), Reinforcement Learning (DQN), Differential Privacy, Human-AI systems
 
 - Full-Stack Developer: React + Firebase applications, real-time systems
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### AI & Research
+### AI Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
