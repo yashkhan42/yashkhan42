@@ -62,6 +62,3 @@
 </p>
 
 ---
-<p align="center">
-  ✨ AI research & software development ✨
-</p>
